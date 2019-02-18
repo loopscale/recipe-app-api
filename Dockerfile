@@ -1,5 +1,5 @@
 FROM python:3.7.2-alpine
-MAINTAINER Loopscale App Developer
+LABEL authors = "Loopscale App Developer"
 
 ENV PYTHONUNBUFFERED 1
 
